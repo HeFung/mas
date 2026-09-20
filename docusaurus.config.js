@@ -7,9 +7,9 @@ const config = {
   favicon: 'img/favicon.ico',
   baseUrl: '/mas/',
   baseUrlIssueBanner: true,
-  url: 'https://massgrave.dev',
-  organizationName: 'massgravel',
-  projectName: 'massgrave.dev',
+  url: 'https://hefung.github.io/mas',
+  organizationName: 'hefung',
+  projectName: 'hefung.github.io/mas',
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
@@ -70,11 +70,11 @@ const config = {
           },
           {
             from: '/msdl',
-            to: 'https://msdl.gravesoft.dev/',
+            to: 'https://hefung.github.io/msdl/',
           },
           {
             from: '/api/msdl/proxy',
-            to: 'https://msdl.gravesoft.dev/',
+            to: 'https://hefung.github.io/msdl/',
           },
         ],
       },
@@ -132,7 +132,7 @@ const config = {
             label: 'Contact Us',
           },
           {
-            href: 'https://github.com/massgravel/Microsoft-Activation-Scripts',
+            href: 'https://github.com/hefung/mas',
             className: 'github-button',
             position: 'right',
             label: 'GitHub',
