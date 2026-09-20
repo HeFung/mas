@@ -5,7 +5,7 @@ const config = {
   title: 'MAS',
   tagline: 'Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.',
   favicon: 'img/favicon.ico',
-  baseUrl: '/',
+  baseUrl: '/mas/',
   baseUrlIssueBanner: true,
   url: 'https://massgrave.dev',
   organizationName: 'massgravel',
