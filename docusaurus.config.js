@@ -7,9 +7,9 @@ const config = {
   favicon: 'img/favicon.ico',
   baseUrl: '/mas/',
   baseUrlIssueBanner: true,
-  url: 'https://hefung.github.io/mas',
+  url: 'https://hefung.github.io',
   organizationName: 'hefung',
-  projectName: 'hefung.github.io/mas',
+  projectName: 'hefung.github.io',
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
